@@ -1,0 +1,14 @@
+Cliente: cliente1
+Dirección: direccionCliente1
+----------------
+prod1
+            20000
+prod1
+    +ing1       100
+    +ing2       150
+    -ing3
+            20250
+----------------
+Precio Neto:  40250
+IVA:          7647
+Precio Total: 47897

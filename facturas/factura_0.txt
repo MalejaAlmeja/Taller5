@@ -1,0 +1,17 @@
+Cliente: Andres
+Dirección: Calle 25 # 45
+----------------
+Combo combo_salmon
+ Descuento: 0.1
+            49950
+tofu_apanado
+            14000
+bowl_salmon
+    +aguacate       8000
+    +pollo       15000
+    -salmon
+            63000
+----------------
+Precio Neto:  126950
+IVA:          24120
+Precio Total: 151070
